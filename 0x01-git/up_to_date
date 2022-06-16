@@ -1,0 +1,6 @@
+git commit -m 'My first commit'
+git init
+echo 'My first readme '>README.md  
+
+ls
+git add .

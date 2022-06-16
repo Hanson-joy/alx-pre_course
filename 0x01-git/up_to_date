@@ -4,3 +4,4 @@ echo 'My first readme '>README.md
 
 ls
 git add .
+git pull
